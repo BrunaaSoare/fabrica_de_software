@@ -1,0 +1,23 @@
+1-)
+1 - criar uma pasta 
+2 - abrir essa pasta no gitbash
+3 - criar um repositório no github
+4 - copiar o link do repositório e dar git clone colando o link no terminal
+5 - dar cd no repositório
+6 - fazer alguma alteração 
+7 - dar git add . 
+8 - commitar as alterações com git commit colocando uma mensagem com -m
+9 - git push
+
+2-)
+por que com a tomada de decisões baseada em dados podemos ver padrões de compra e consumo, preferencias e tendencias, melhorando o alvo das empresas gerando mais lucro.
+
+3-) 
+no compartilhamento 
+
+4- )
+quantitativos: medidas objetivas de de fatos numericos, voce pode numerar.
+qualitativas: medias explicativas de qualidade e caracteristicas, nao pode ser numerado.
+
+5- )
+aprendemos os conceitos basicos de analise dados, explicando oque sao dados, os tipos de dados, os conceitos e os processos, alem da importancia da analise de dados para o mercado atual e as tendencias de aumento dessa area ao longo dos anos. outro aprendizado foi o uso do versionador de codigo git e a criacao do nosso primeiro repositorio no github.
